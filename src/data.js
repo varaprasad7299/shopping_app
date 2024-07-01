@@ -8,14 +8,14 @@ export const sliderItems = [
   },
   {
     id: 1,
-    img: "https://purepng.com/public/uploads/large/purepng.com-women-shoppingwomenpeoplepersonsfemaleshopping-1121525084428e1xcb.png",
+    img: "https://purepng.com/public/uploads/large/purepng.com-women-shoppingwomenpeoplepersonsfemaleshopping-1121525087952fa37o.png",
     title: "WINTER SALE",
     desc: "DONT COMPROMISE GET FLAT 30% OFF FOR WINTER SALE",
     bg: "fcf1ed",
   },
   {
     id: 2,
-    img: "https://purepng.com/public/uploads/large/purepng.com-women-shoppingwomenpeoplepersonsfemaleshopping-1121525084428e1xcb.png",
+    img: "https://purepng.com/public/uploads/large/purepng.com-women-shoppingwomenpeoplepersonsfemaleshopping-1121525085526vxpnm.png",
     title: "POPULAR SALE",
     desc: "DONT COMPROMISE GET FLAT 30% OFF FOR POPULAR SALE",
     bg: "fef0f4",
@@ -43,38 +43,34 @@ export const categories = [
 export const popularProducts = [
   {
     id: 1,
-    img: "",
+    img: "https://purepng.com/public/uploads/thumbnail/woman-dress-mdp.png",
   },
   {
-    id: 1,
-    img: "",
+    id: 2,
+    img: "https://purepng.com/public/uploads/thumbnail/purepng.com-of-white-full-sleeve-shirt-with-blacktiegarmentdressshirtfitfront-buttonfullbright-greytieblack-1421526313850rkub5.png",
   },
   {
-    id: 1,
-    img: "",
+    id: 3,
+    img: "https://purepng.com/public/uploads/thumbnail/purepng.com-red-casual-check-full-shirtgarmentdressshirtfitfront-buttonfullred-check-1421526313907yyq1e.png",
   },
   {
-    id: 1,
-    img: "",
+    id: 4,
+    img: "https://purepng.com/public/uploads/thumbnail/purepng.com-women-black-dress-shirtgarmentdressshirtfitfront-buttonfullstylishblackwomens-1421526314029wbwto.png",
   },
   {
-    id: 1,
-    img: "",
+    id: 5,
+    img: "https://purepng.com/public/uploads/thumbnail/purepng.com-girl-jacketclothinggirl-jacketfashion-girl-women-woman-dress-wear-cloth-coat-blazer-jacket-631522326859nwoxh.png",
   },
   {
-    id: 1,
-    img: "",
+    id: 6,
+    img: "https://purepng.com/public/uploads/thumbnail/purepng.com-biz-cloth-twill-capcapbaseball-capfittedsportsstyilishbluebizclothtwill-1421526277665h4589.png",
   },
   {
-    id: 1,
-    img: "",
+    id: 7,
+    img: "https://purepng.com/public/uploads/thumbnail/purepng.com-women-dressclothingwomen-dressfashion-women-dress-cloth-apparel-631522326986xs2uw.png",
   },
   {
-    id: 1,
-    img: "",
-  },
-  {
-    id: 1,
-    img: "",
+    id: 8,
+    img: "https://purepng.com/public/uploads/large/purepng.com-women-dressclothingwomen-dressfashion-women-dress-cloth-apparel-631522326964r2vsh.png",
   },
 ];

@@ -27,16 +27,19 @@ export const categories = [
     id: 1,
     img: "https://connecteam.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-20-at-13.22.36.png",
     title: "Business Attire",
+    cat: "man",
   },
   {
     id: 2,
     img: "https://imageio.forbes.com/specials-images/imageserve/646c145862a8991d9cb502ff/Meghan-M--Biro-on-how-to-dress-smart-casual-/960x0.jpg?format=jpg&width=960",
     title: "Casual Wear",
+    cat: "woman",
   },
   {
     id: 3,
     img: "https://qph.cf2.quoracdn.net/main-qimg-c1b1ab7b24d0ef39f91ce583591a7c3b.webp",
     title: "Formal Wear",
+    cat: "fashion",
   },
 ];
 
@@ -44,14 +47,17 @@ export const popularProducts = [
   {
     id: 1,
     img: "https://purepng.com/public/uploads/thumbnail/woman-dress-mdp.png",
+    cat: "women",
   },
   {
     id: 2,
     img: "https://purepng.com/public/uploads/thumbnail/purepng.com-of-white-full-sleeve-shirt-with-blacktiegarmentdressshirtfitfront-buttonfullbright-greytieblack-1421526313850rkub5.png",
+    cat: "coat",
   },
   {
     id: 3,
     img: "https://purepng.com/public/uploads/thumbnail/purepng.com-red-casual-check-full-shirtgarmentdressshirtfitfront-buttonfullred-check-1421526313907yyq1e.png",
+    cat: "jeans",
   },
   {
     id: 4,

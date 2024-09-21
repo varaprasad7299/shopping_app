@@ -13,7 +13,7 @@ router.post("/", verifyTokenAndAdmin, async (req, res) => {
     const savedProduct = await newProduct.save();
     res.status(200).json(savedProduct);
   } catch (err) {
-    res.status(500), json(err);
+    res.status(500).json(err);
   }
 });
 
@@ -57,7 +57,7 @@ router.get("/find/:id", async (req, res) => {
   }
 });
 
-//get all users
+//get all Products
 router.get("/", async (req, res) => {
   const queryNew = req.query.new;
   const queryCategory = req.query.category;

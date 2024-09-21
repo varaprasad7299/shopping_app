@@ -3,7 +3,6 @@ import styled from "styled-components";
 import { Search, ShoppingCartOutlined } from "@mui/icons-material";
 import Badge from "@mui/material/Badge";
 import { mobile } from "../responsive";
-import { padding, width } from "@mui/system";
 
 const Container = styled.div`
   height: 60px;
